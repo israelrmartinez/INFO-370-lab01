@@ -1,3 +1,3 @@
 # INFO-370-lab01
 
-Open the .ipynb to review work.
+To review work, open the .ipynb file.
